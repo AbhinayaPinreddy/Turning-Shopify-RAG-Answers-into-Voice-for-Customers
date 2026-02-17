@@ -1,27 +1,27 @@
-# 🗣️ Turning Shopify RAG Answers into Voice for Indian Customers
+#  Turning Shopify RAG Answers into Voice for Indian Customers
 
 A voice-enabled customer support and product discovery system built on top of Shopify store data.  
 The project uses **Retrieval-Augmented Generation (RAG)** to answer customer questions accurately and converts those answers into **spoken responses**, creating a natural, low-effort shopping experience—especially suited for Indian users.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🎤 Voice-based customer interaction
-- 🧠 RAG-powered answers from real Shopify data
-- 🔊 Text-to-Speech responses (hands-free support)
-- 📦 Answers questions about:
+-  Voice-based customer interaction
+-  RAG-powered answers from real Shopify data
+-  Text-to-Speech responses (hands-free support)
+-  Answers questions about:
   - product price
   - available sizes
   - fabric/material
   - shipping timelines
   - return & refund policies
-- 🗣️ Handles natural, imperfect customer queries
-- 🔁 Supports multi-turn conversations
+- Handles natural, imperfect customer queries
+- Supports multi-turn conversations
 
 ---
 
-## 🏗️ Project Architecture
+## Project Architecture
 
 ```
 User Voice
@@ -41,7 +41,7 @@ Spoken Response
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 ### Core
 - Python
@@ -59,7 +59,7 @@ Spoken Response
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 .
@@ -97,7 +97,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ### Step 1: Fetch Shopify data
 ```bash
@@ -116,7 +116,7 @@ python rag_query.py
 
 ---
 
-## 🎧 Example Voice Queries
+##  Example Voice Queries
 
 - “What products do you sell?”
 - “What is the price of cotton kurta?”
@@ -131,6 +131,7 @@ python rag_query.py
 
 Many Indian customers prefer **speaking and listening** over reading long text.  
 This project demonstrates how combining **RAG with voice interfaces** can reduce friction, improve clarity, and create a more natural shopping experience for D2C and Shopify sellers.
+
 
 
 
