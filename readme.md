@@ -132,6 +132,10 @@ python rag_query.py
 Many Indian customers prefer **speaking and listening** over reading long text.  
 This project demonstrates how combining **RAG with voice interfaces** can reduce friction, improve clarity, and create a more natural shopping experience for D2C and Shopify sellers.
 
+This project was created in collaboration with [Superteams.ai](https://superteams.ai).
+
+The collaboration involved contributing technical content, sharing insights, and building projects/blogs focused on learning, innovation, and community engagement in the tech ecosystem.
+
 
 
 
